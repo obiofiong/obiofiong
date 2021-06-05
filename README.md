@@ -1,7 +1,10 @@
 ### Hi there 👋, 
 # I am Obiofiong JOHN
 
-
+<img
+  align="center"
+  src="https://github.com/obiofiong/obiofiong/John Header 1.jpg"
+/>
 
 ### - 🔭 I’m currently working with React Js and it's awesome
 <!--
