@@ -6,6 +6,9 @@
   src="https://github.com/obiofiong/obiofiong/blob/main/John%20Header%201.jpg"
 />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obiofiong)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### - 🔭 I’m currently working with React Js and it's awesome
 ### - 🤔 I'm looking to collaborate on React Projects.
 ### - ⚡ Fun fact: I am a critical thinker and fast learner
