@@ -11,7 +11,7 @@
 
 ### - 🔭 I’m currently working with React Js and it's awesome
 ### - 🤔 I'm looking to collaborate on React Projects.
-### - ⚡ Fun fact: I am a critical thinker and fast learner
+### - ⚡ Fun fact: I am a critical thinker and fast learner!
 <!--
 **obiofiong/obiofiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
